@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Дневник сна</string>
+    <string name="sleep">Уснул</string>
+    <string name="wake_up">Проснулся</string>
+    <string name="how_are_our_baby">Как дела у нашего малыша?:)</string>
+    <string name="history">История</string>
+    <string name="change_time">Изменить время последнего события</string>
+</resources>
